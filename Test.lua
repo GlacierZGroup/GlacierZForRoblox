@@ -1,7 +1,7 @@
 --PlaceID Check lol
 local placeId = game.PlaceId -- Retrieves the current place ID
 
-if placeId == 6874472281 then
+if placeId == 6872274481 then
     local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
     -- The library is loaded here since the place ID matches
 else
